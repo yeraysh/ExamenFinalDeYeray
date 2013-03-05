@@ -2,7 +2,7 @@
 public class test {
 
 	public void tester() {
-		//VERSION 1
+		//EXAMEN 2.0
 		//
 		
 		//dadas
