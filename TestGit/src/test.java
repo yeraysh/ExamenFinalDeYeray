@@ -2,9 +2,7 @@
 public class test {
 
 	public void tester() {
-		//EXAMEN 2.2
-		
-		//dadas
+		//eekfdkjfkljklfdjsfd
 	}
-
+	//dsadasdassadasdasda
 }
