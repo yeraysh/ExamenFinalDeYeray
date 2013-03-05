@@ -2,10 +2,7 @@
 public class test {
 
 	public void tester() {
-		//EXAMEN 2.0
-		//
-		
-		//dadas
+		//examen 2
 	}
-
+	//dsadasdassadasdasda
 }
